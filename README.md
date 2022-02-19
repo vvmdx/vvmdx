@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 中度肥宅
+- 二刺螈
+- 误打误撞走上安全路
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvmdx&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
