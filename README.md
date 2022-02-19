@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&theme=gruvbox&count_private=true&hide=prs,issues,contribs&line_height=40" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&theme=gruvbox&count_private=true&hide=prs&line_height=30" />
 
 
 - 中度肥宅
