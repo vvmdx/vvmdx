@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&theme=gruvbox&count_private=true&hide=prs&line_height=30" />
 
 
-- 中度肥宅
+- 中度及中度以上肥宅
 - 二刺螈
+- 老混子了
 - 误打误撞走上安全路
 - 目前希望能顺利毕业+找个好工作:)
 
