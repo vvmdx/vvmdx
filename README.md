@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&count_private=true&theme=gruvbox&count_private=true&hide=prs&line_height=30" />
-
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&count_private=true&theme=gruvbox&count_private=true&hide=prs&line_height=30" /> -->
+<img align="right" src="https://streak-stats.demolab.com?user=vvmdx&theme=gruvbox&date_format=%5BY.%5Dn.j&mode=weekly" />
 
 - 中度及中度以上肥宅
 - 二刺螈
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 误打误撞走上安全路
 - ~~目前希望能顺利毕业+找个好工作:)~~
 - 目前希望工作顺利 : )顺便解决一下单身二十多年的严重问题
+
 
 ## 
 
