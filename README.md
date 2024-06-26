@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 博客: https://vvmdx.github.io/
 
+邮箱：vvmdx@qq.com
+
 ![](https://komarev.com/ghpvc/?username=vvmdx&color=FFA500&style=flat&label=watch+me)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvmdx&repo=Sec-Interview-4-2023&theme=slateorange" /> -->
