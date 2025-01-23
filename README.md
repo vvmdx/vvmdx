@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=vvmdx&count_private=true&theme=gruvbox&count_private=true&hide=prs&line_height=30" /> -->
-<img align="right" src="https://streak-stats.demolab.com?user=vvmdx&theme=gruvbox&date_format=%5BY.%5Dn.j&mode=weekly" />
+<!-- <img align="right" src="https://streak-stats.demolab.com?user=vvmdx&theme=gruvbox&date_format=%5BY.%5Dn.j&mode=weekly" /> -->
+<img align="right" src="https://github-readme-streak-stats-seven-azure.vercel.app?user=vvmdx&theme=gruvbox&date_format=%5BY.%5Dn.j&mode=weekly" />
 
 - 中度及中度以上肥宅
 - 二刺螈
